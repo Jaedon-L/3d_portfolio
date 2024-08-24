@@ -183,12 +183,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Jaedon-L',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/jaedon-l-577012107/',
     }
 ];
 
@@ -212,14 +212,14 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Multiplayer Ping Pong VR',
         description: 'Mini VR Physics project using Unity Netcode and DOTS and implementing object handtracking to override Unity Physics system to play a simple Ping Pong Game with a friend.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://github.com/Jaedon-L/VRPingPongMultiplayerGame',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'React Three Fiber Portfolio',
         description: 'Using React Three Fiber, Three.JS and Tailwind, created a detailed 3D environment showing skills in Frontend Development and Object-Oriented Programming. Implemented Audio, Animation, Shaders and Interactivity. ',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: 'https://jaedon-l.github.io/3d_portfolio/',
     },
     {
         iconUrl: estate,
